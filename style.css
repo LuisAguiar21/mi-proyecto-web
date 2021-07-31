@@ -1,0 +1,30 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+#Titulo-principal {
+    text-align: center;
+}
+#Rojo {
+    color: red;
+}
+#Amarillo {
+    color: yellow;
+}
+#Azul {
+    color: blue
+}
+#Verde {
+    color: green;
+}
+#Morado {
+    color: purple;
+}
+#Naranja {
+    color: orange;
+}
+h2 {
+    font-size: 25px;
+}
+h1 {
+    font-size: 40px;
+}
